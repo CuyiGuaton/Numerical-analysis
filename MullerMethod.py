@@ -17,9 +17,9 @@ def ww(x0,x1,x2):
     return divdef(x2, x1) + divdef(x2,x0) - divdef(x1,x0)
 
 
-
-queue = deque([-1,0,2])
 #           x0,x1,x2
+queue = deque([-1,0,2])
+
 i=3
 w= ww(queue[0],queue[1],queue[2])
 z=queue[2]

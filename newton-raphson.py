@@ -23,6 +23,8 @@ def df(x):
     #return (38.8196)*x -(0.0125)
     #return 3*x**2 -  12*x + 11
     return (log(x) + 1)/log(10)
+
+    
 i=1
 z=8
 print('\\begin{tabular}{|c|c|c|} \n \hline')

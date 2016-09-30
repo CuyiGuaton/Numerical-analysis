@@ -1,6 +1,6 @@
 from math import sqrt,sin
 
-def faster_simpson( a, b, steps):
+def simpson( a, b, steps):
    h = (b-a)/float(steps)
    a1 = a+h/2
    s1 = sum( f(a1+i*h) for i in range(0,steps))
@@ -11,4 +11,4 @@ def faster_simpson( a, b, steps):
 def f(x):
     return sqrt(x)*(x-2)
 
-print(faster_simpson(0, 5/2, 4))
+print(simpson(0, 5/2 ,4))

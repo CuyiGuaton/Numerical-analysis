@@ -6,8 +6,6 @@ def f(x):
     z = float ((x**3 + 9*x)/(3*(x**2 + 1)))
     return z
 
-
-
 i=0
 z=1
 while i<4:
