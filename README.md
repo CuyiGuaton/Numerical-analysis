@@ -27,6 +27,4 @@ Change the f(x) return in the algorithms and the initial value, they are express
 Some algorithms output is in latex format, This is because they was made for a report, feel to free to change the output if you want to.
 
 ##Other
-Bezeir curve and Rouge kutta are based in other repositories, thanks you guys.
-https://rosettacode.org/wiki/Runge-Kutta_method
-http://processingjs.nihongoresources.com/bezierinfo/
+B[ezeir curve](http://processingjs.nihongoresources.com/bezierinfo/) and [Rouge kutta](Runge-Kutta_method) are based in other repositories, thanks you guys.
