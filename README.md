@@ -1,4 +1,4 @@
-# Numerical-analysis
+# Numerical analysis
 Numerical analysis algorithms created with python
 
 There are the methods in the repository.
