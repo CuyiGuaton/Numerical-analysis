@@ -18,13 +18,13 @@ There are the methods in the repository.
 These algorithms was made for the subject numerical analysis of Computer Science.
 
 
-## how run script.
+## How run script.
 
 Change the f(x) return in the algorithms and the initial value, they are expressed by one z letter or a x0, x1, ... , etc.
 
-##About output
+## About output
 
 Some algorithms output is in latex format, This is because they was made for a report, feel to free to change the output if you want to.
 
-##Other
+## Other
 [Bezeir curve](http://processingjs.nihongoresources.com/bezierinfo/) and [Runge-Kutta_method](https://rosettacode.org/wiki/Runge-Kutta_method) are based in other repositories, thanks you guys.
